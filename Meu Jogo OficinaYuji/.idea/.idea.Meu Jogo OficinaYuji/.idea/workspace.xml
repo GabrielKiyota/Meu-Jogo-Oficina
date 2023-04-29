@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39768307-71de-43e8-999f-3df064c75d26" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Meu Jogo OficinaYuji/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Meu Jogo OficinaYuji/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/Personagem.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/Personagem.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/idle personagem.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/idle personagem.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/run_Down.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/run_Down.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/run_Left.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/run_Left.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/run_Right.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/run_Right.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/run_Up.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/run_Up.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/pularCena.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectId" id="2OtSs6YoSpWYvyssXd1xVjCbpxT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\saped\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\saped\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\saped\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.2.15f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;D:\Pasta Fork Yuji\Meu-Jogo-Oficina\Meu Jogo OficinaYuji&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Pasta Fork Yuji\Meu-Jogo-Oficina\Meu Jogo OficinaYuji" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.2.15f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;D:\Pasta Fork Yuji\Meu-Jogo-Oficina\Meu Jogo OficinaYuji&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Pasta Fork Yuji\Meu-Jogo-Oficina\Meu Jogo OficinaYuji" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.8f1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;C:\Users\20211170150051\Meu-Jogo-Oficina\Meu Jogo OficinaYuji&quot; -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
@@ -29,5 +92,35 @@
       </option>
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39768307-71de-43e8-999f-3df064c75d26" name="Changes" comment="" />
+      <created>1682378593968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682378593968</updated>
+      <workItem from="1682378597677" duration="4647000" />
+      <workItem from="1682727636430" duration="1061000" />
+      <workItem from="1682729865370" duration="1347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
