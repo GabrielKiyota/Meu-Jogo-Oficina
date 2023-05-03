@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class Personagem : MonoBehaviour
 {
@@ -25,7 +26,6 @@ public class Personagem : MonoBehaviour
 
         
         Vector3 movimento = new Vector3(Input.GetAxis("Horizontal"),Input.GetAxis("Vertical"), 0f);
-        
         anim.SetFloat("Horizontal",movimento.x);
         anim.SetFloat("Vertical",movimento.y);
         anim.SetFloat("Speed",movimento.magnitude);
