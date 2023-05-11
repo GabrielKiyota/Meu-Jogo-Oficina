@@ -6,16 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="39768307-71de-43e8-999f-3df064c75d26" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Meu Jogo OficinaYuji/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Meu Jogo OficinaYuji/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/Personagem.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/Personagem.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/idle personagem.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/idle personagem.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/run_Down.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/run_Down.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/run_Left.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/run_Left.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/run_Right.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/run_Right.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animação dos personagens/run_Up.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animação dos personagens/run_Up.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem 1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem 1.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem 1.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/Personagem.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/PularCena.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/PularCena.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/que mario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Programação Jogo/que mario.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Cena 1-1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Cena 1-1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Inicio.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Inicio.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +31,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Programação Jogo/PularCena.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Programação Jogo/Porta.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Programação Jogo/SpawnManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Programação Jogo/SpawnPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Flow/Options/UnitBase.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2OtSs6YoSpWYvyssXd1xVjCbpxT" />
@@ -86,10 +97,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="6152">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="6152" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -111,6 +122,9 @@
       <workItem from="1682733872719" duration="334000" />
       <workItem from="1682769386336" duration="576000" />
       <workItem from="1683068742417" duration="5548000" />
+      <workItem from="1683243198024" duration="36901000" />
+      <workItem from="1683768655138" duration="13000" />
+      <workItem from="1683770444924" duration="15042000" />
     </task>
     <servers />
   </component>
