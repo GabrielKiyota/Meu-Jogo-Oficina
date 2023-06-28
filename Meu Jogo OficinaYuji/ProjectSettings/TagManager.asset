@@ -4,10 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - moeda
-  - chegada
-  - inimigo
   - Personagem
+  - Cena 3-1 E
+  - Cena 2-1 D
+  - Cena 1-1 D
+  - Cena 2-1 E
+  - Mudanca
+  - SpawnController
+  - Portal
   layers:
   - Default
   - TransparentFX
@@ -15,7 +19,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - "Acima do ch\xE3o"
   - 
   - 
   - 
