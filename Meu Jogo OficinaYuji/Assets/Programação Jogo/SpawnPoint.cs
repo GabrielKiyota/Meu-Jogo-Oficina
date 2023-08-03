@@ -22,6 +22,17 @@ public class SpawnPoint : MonoBehaviour
                 Vector3 spawnPosition2 = spawnObject2.transform.position;
                 Instantiate(personagem, spawnPosition2, Quaternion.identity);
                 break;
+            case "Cima":                
+                GameObject spawnObject3 = GameObject.Find(portaEntrada);
+                Vector3 spawnPosition3 = spawnObject3.transform.position;
+                Instantiate(personagem, spawnPosition3, Quaternion.identity);
+                break;
+                
+            case "Baixo":                
+                GameObject spawnObject4 = GameObject.Find(portaEntrada);
+                Vector3 spawnPosition4 = spawnObject4.transform.position;
+                Instantiate(personagem, spawnPosition4, Quaternion.identity);
+                break;
         }
         // Encontre o objeto que você quer destruir
         GameObject verificando = GameObject.Find("Personagem 1(Clone)");
@@ -32,10 +43,6 @@ public class SpawnPoint : MonoBehaviour
             GameObject destroi = GameObject.Find("Personagem 1");
             // Destrua outro objeto
             Destroy(destroi);
-        }
-
-        {
-        
         }
         
     }

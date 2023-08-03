@@ -12,6 +12,7 @@ TagManager:
   - Mudanca
   - SpawnController
   - Portal
+  - Inimigo
   layers:
   - Default
   - TransparentFX
