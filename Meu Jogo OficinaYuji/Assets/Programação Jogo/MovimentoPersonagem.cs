@@ -7,7 +7,7 @@ public class MovimentoPersonagem : MonoBehaviour
 {
     public float speed;
     public Animator anim;
-    public int vida;
+    public int vida = 3;
 
 
 
@@ -22,12 +22,12 @@ public class MovimentoPersonagem : MonoBehaviour
         transform.position = (transform.position + movimento * speed * Time.deltaTime);
         if (vida == 0)
         {
-            
+            Destroy(gameObject);
         }
     }
     private void OnCollisionEnter2D(Collision2D dano)
     {
-        if (dano.gameObject.tag == "inimigo")
+        if (dano.gameObject.tag == "Inimigo")
         {
             vida = vida - 1;
         }

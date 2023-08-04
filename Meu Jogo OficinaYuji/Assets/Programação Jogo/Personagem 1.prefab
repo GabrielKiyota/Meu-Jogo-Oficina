@@ -195,4 +195,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   anim: {fileID: 375907453322247942}
-  vida: 0
+  vida: 3
